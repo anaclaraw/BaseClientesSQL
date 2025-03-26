@@ -1,0 +1,13 @@
+1. O cliente Luís reclamou que recebeu apenas um cupom na promoção SorteioCarro, porém deveria ter recebido três. Analisar a reclamação do cliente, e informar se ele está correto ou se houve algum problema. 
+
+2. O cliente Paulo alegou que não recebeu os R$ 50,00 devidos pela promoção Retorno50. Análisar se o cliente tem direito ao crédito.
+
+3. O cliente Ricardo questionou quantas cupons tem para a promoção SorteioCarro
+
+4. A cliente Nathalia alegou que não recebeu os R$ 50,00 da promoção Retorno50. Verificar o motivo.
+
+5. O cliente Cassio está questionando quantas chances possui na promoção de sorteio.
+
+6. A cliente Giovana quer saber quantas chances ela tem na promoção SorteioCasa
+
+7. O cliente Paulo informa que deveria ter 3 cupons na promoção SorteioCarro porém não visualiza. Verificar!
