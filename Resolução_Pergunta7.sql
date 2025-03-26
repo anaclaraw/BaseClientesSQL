@@ -1,7 +1,4 @@
 -- O cliente Paulo informa que deveria ter 3 cupons na promoção SorteioCarro porém não visualiza. Verificar!
-
--- O cliente Ricardo questionou quantas cupons tem para a promoção SorteioCarro
-
 -- Analise dos dados
 -- Conferindo se o valor mínimo arrecadado e as datas da compra e periodo promoção batem
 SELECT 
